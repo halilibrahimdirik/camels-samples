@@ -6,8 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="camel-pojo-routing" />
         <module name="camel-basic-app" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="camel-spring-boot" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
