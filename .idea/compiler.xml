@@ -8,9 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="camel-pojo-routing" />
         <module name="camel-basic-app" />
+        <module name="camel-context-xml-sample" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="camel-ftp-routing" target="11" />
       <module name="camel-spring-boot" target="11" />
     </bytecodeTargetLevel>
   </component>

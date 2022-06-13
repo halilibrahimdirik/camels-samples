@@ -1,1 +1,4 @@
-/home/hidirik/repositories/camels-samples/camel-pojo-routing/src/main/java/org/example/Main.java
+/home/hidirik/repositories/camels-samples/camel-pojo-routing/src/main/java/sample/camel/MagicNumber.java
+/home/hidirik/repositories/camels-samples/camel-pojo-routing/src/main/java/sample/camel/Application.java
+/home/hidirik/repositories/camels-samples/camel-pojo-routing/src/main/java/sample/camel/NumberRoute.java
+/home/hidirik/repositories/camels-samples/camel-pojo-routing/src/main/java/sample/camel/NumberPojo.java

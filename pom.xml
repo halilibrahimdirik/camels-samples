@@ -11,6 +11,7 @@
     <modules>
         <module>camel-basic-app</module>
         <module>camel-pojo-routing</module>
+        <module>camel-context-xml-sample</module>
     </modules>
 
     <properties>

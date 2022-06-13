@@ -1,1 +1,4 @@
-org/example/Main.class
+sample/camel/MagicNumber.class
+sample/camel/NumberRoute.class
+sample/camel/Application.class
+sample/camel/NumberPojo.class
