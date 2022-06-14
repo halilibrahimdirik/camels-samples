@@ -5,8 +5,12 @@
     <file url="file://$PROJECT_DIR$/camel-basic-app/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/camel-context-xml-sample/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/camel-context-xml-sample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-direct-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-direct-example/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/camel-ftp-routing/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/camel-ftp-routing/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-rest-procuder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-rest-procuder/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/camel-spring-boot/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/camel-spring-boot/src/main/resources" charset="UTF-8" />
   </component>

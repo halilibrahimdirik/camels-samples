@@ -12,6 +12,9 @@
         <module>camel-basic-app</module>
         <module>camel-pojo-routing</module>
         <module>camel-context-xml-sample</module>
+        <module>camel-direct-example</module>
+        <module>camel-rest-procuder</module>
+        <module>camel-rest-swagger</module>
     </modules>
 
     <properties>
