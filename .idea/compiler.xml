@@ -6,15 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="camel-rest-procuder" />
+        <module name="camel-run-standalone" />
+        <module name="camel-direct-vs-seda" />
         <module name="camel-pojo-routing" />
         <module name="camel-rest-swagger" />
         <module name="camel-basic-app" />
         <module name="camel-context-xml-sample" />
         <module name="camel-direct-example" />
+        <module name="camel-rest-procuder" />
+        <module name="camel-archetype-spring-boot-basic-app" />
+        <module name="camel-direct-example-sb" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="camel-archetype-spring-boot-basic" target="11" />
       <module name="camel-ftp-routing" target="11" />
       <module name="camel-spring-boot" target="11" />
     </bytecodeTargetLevel>

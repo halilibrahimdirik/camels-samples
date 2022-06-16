@@ -15,6 +15,10 @@
         <module>camel-direct-example</module>
         <module>camel-rest-procuder</module>
         <module>camel-rest-swagger</module>
+        <module>camel-direct-vs-seda</module>
+        <module>camel-run-standalone</module>
+        <module>camel-archetype-spring-boot-basic-app</module>
+        <module>camel-direct-example-sb</module>
     </modules>
 
     <properties>

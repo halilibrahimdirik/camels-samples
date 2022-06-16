@@ -1,0 +1,4 @@
+/home/hidirik/repositories/camels-samples/camel-direct-vs-seda/src/main/java/org/example/DirectEndPointBehaviorExample.java
+/home/hidirik/repositories/camels-samples/camel-direct-vs-seda/src/main/java/org/example/routes/DirectEndPointRouter.java
+/home/hidirik/repositories/camels-samples/camel-direct-vs-seda/src/main/java/org/example/MainApp.java
+/home/hidirik/repositories/camels-samples/camel-direct-vs-seda/src/main/java/org/example/MyRouteBuilder.java
